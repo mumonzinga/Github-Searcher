@@ -1,27 +1,65 @@
-# Githubsearch
+#  A GitHub Searcher
+>*[GitHub Stars](https://github.com/mumonzinga/github-search/stargazers) *[GitHub Issues](https://github.com/mumonzinga/github-search/issues)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
+#### An application that easens your search in GitHub, 02/2019
 
-## Development server
+#### By 
+**[Mumo Nzinga](https://github.com/mumonzinga)**
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+#### Description
 
-## Code scaffolding
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6. It is an online application that allows one to search for users at GitHub using their usernames and also allows one to search for a specific repository on GitHub.
+![website review](https://github.com/mumonzinga/images/)
+---
+## BDD
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+| Behavior- Our program should handle: | Input Example- When it receives: | Output Example- It should return: |
+| :-------------: | :-------------: | :-------------: |
+| Search for user | Input "mumonzinga" | Display user: "mumonzinga" |
+| Search for user repository | Input "mumonzinga/cookie-recipe" | Display user repository: "mumonzinga/cookie-recipe" |
+*
+## Setup/Installation Requirements
 
-## Build
+* Open your browser browser.
+* Load gitHub on your browser.
+* Search for mumonzminga/.... repository.
+* Fork the data onto your own personal repository.
+* Clone project
+* run `'ng install'` on terminal
+* run `'ng serve'` on terminal
+* To access the live website, click on this url https://mumonzinga.github.io/gitHubSearch
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## More Technical Activities/Raw Code
+>*[Development Server](https://github.com/mumonzinga/github-search/blob/master/developmentserver.md)
+>*[Code Scaffolding](https://github.com/mumonzinga/github-search/blob/master/codescaffolding.md)
+>*[Build](https://github.com/mumonzinga/github-search/blob/master/build.md)
+>*[Running Unit Tests](https://github.com/mumonzinga/github-search/blob/master/runningunittests.md)
+>*[Running end-to-end Tests](https://github.com/mumonzinga/github-search/blob/master/runningendtoendtests.md)
+>*[Further Help](https://github.com/mumonzinga/github-search/blob/master/furtherhelp.md)
+## Known Bugs
 
-## Running unit tests
+No Bugs
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Technologies Used
 
-## Running end-to-end tests
+- CSS 
+- Bootstrap
+- HTML 
+- Typescript
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+## Dependencies
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Angular CLI
+
+## Support and contact details
+If you have any inquiries, comments; Contact me at mnzinga888@gmail.com  
+
+
+### License and Copyright details
+>You can check the full license [here](https://github.com/mumonzinga/LICENSE.git)
+
+This project is licensed under the terms of the **GNU GPLv3** license.
+
+
+

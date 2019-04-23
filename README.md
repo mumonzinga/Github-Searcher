@@ -15,8 +15,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 | Behavior- Our program should handle: | Input Example- When it receives: | Output Example- It should return: |
 | :-------------: | :-------------: | :-------------: |
-| Search for user | Input "mumonzinga" | Display user: "mumonzinga" |
-| Search for user repository | Input "mumonzinga/cookie-recipe" | Display user repository: "mumonzinga/cookie-recipe" |
+| Search for user | Input:"mumonzinga" | Display user:"mumonzinga" |
+| Search for user repository | Input:"mumonzinga/cookie-recipe" | Display user repository: "mumonzinga/cookie-recipe" |
 
 ## Setup/Installation Requirements
 

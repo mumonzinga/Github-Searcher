@@ -27,7 +27,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * Clone project
 * run `'ng install'` on terminal
 * run `'ng serve'` on terminal
-* To access the live website, click on this url https://mumonzinga.github.io/gitHubSearch
+* To access the live website, click on this url https://mumonzinga.github.io/Github-Searcher
 
 ## More Technical Activities/Raw Code
 >*[Development Server](https://github.com/mumonzinga/github-search/blob/master/developmentserver.md)

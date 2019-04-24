@@ -22,7 +22,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 * Open your browser browser.
 * Load gitHub on your browser.
-* Search for mumonzminga/.... repository.
+* Search for mumonzinga/.... repository.
 * Fork the data onto your own personal repository.
 * Clone project
 * run `'ng install'` on terminal

@@ -3,7 +3,7 @@
 }
 
 h2 {
-  color: #ffc107;
+  color: orangered;
   font-family: 'ZCOOL XiaoWei', serif;
 }
 
@@ -11,22 +11,27 @@ input {
   width: 100%;
   margin-bottom: 1%;
   margin-top: 1%;
+  margin-left: auto;
+  padding-left: auto;
   font-family: 'Libre Baskerville', serif;
 }
 
 .output {
   padding: 5%;
   width: 100%;
+
   float: right;
   text-align: right;
-  box-shadow: 5px 5px 5px grey;
+  margin-left: auto;
+  padding-left: auto;
+  box-shadow: 5px 5px 5px gray;
   font-family: 'Merienda', cursive;
 }
 
 button,
 button a,
 h3 {
-  color: white;
+  color:blueviolet;
   font-family: 'ZCOOL XiaoWei', serif;
 }
 

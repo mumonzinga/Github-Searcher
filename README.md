@@ -9,7 +9,7 @@
 #### Description
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6. It is an online application that allows one to search for users at GitHub using their usernames and also allows one to search for a specific repository on GitHub.
-![website review](https://github.com/mumonzinga/Github-Searcher/blob/master/src/images/screenshot.png)
+![website review](https://github.com/mumonzinga/Github-Searcher/blob/master/images/screenshot.png)
 ---
 ## BDD
 
